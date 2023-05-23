@@ -1,0 +1,28 @@
+button{
+  text-align:center;
+  color:white;
+  background-color:#ff0040;
+  border-radius:50px;
+  padding:10px;
+  font-size:20px;
+  font-family:verdana;
+  border:none;
+  width:100px;
+  transition:0.5s;
+  
+}
+button:hover{
+  width:200px;
+}
+
+body{
+background-color:white;
+}
+
+h1{
+   white-space: pre-wrap;
+  color:#ff0040;
+  font-family:verdana;
+  text-align:center;
+  
+}
